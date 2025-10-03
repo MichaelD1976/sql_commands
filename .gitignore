@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore database file
+db/football_simple.sqlite3
